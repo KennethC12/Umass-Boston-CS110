@@ -1,0 +1,21 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+
+   Project3 was a difficult one to understand, but when it comes to coding it was not as hard as I thought. 
+   It mainly focused on for loops and lists, and when accessing the data file, it was different because in many cases it would just be a code line, but it was in the terminal.
+   
+
+2. Did you receive help from anyone? List their names, status (classmate, 
+   CS110 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   N/A                  N/A        N/A
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   It was a fun learning experience, but it really helped me figured out, that if problem not read correctly.
+   It can lead me to a more confusing route. 

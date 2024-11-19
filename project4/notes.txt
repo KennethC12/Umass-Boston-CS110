@@ -1,0 +1,20 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+
+   This project uses functions that and tuples. The task is to create a Python library that supports core functions required for implementing the RSA cryptosystem. These functions typically include key generation, encryption, and decryption. RSA works by using two large prime numbers to generate a public and private key pair. The public key is used for encryption, while the private key is used for decryption.
+
+
+
+2. Did you receive help from anyone? List their names, status (classmate, 
+   CS110 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   ...                ...          ...
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...
